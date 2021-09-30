@@ -1,0 +1,19 @@
+{
+  "name": "文件搜索",
+  "name_en": "SearchFile",
+  "main": "index.js",
+  "icon": "search",
+  "version": "0.1",
+  "description": "通过 Webshell 搜索目标主机指定文件",
+  "description_en": "Search the target host specified file through Webshell",
+  "author": {
+    "name": "PFinal南丞",
+    "email": "lampxiezi@163.com"
+   },
+  "category": "信息获取",
+  "category_en": "Information",
+  "multiple": false,
+  "scripts": [
+    "php"
+  ]
+}
